@@ -2,7 +2,7 @@
 
 ## Involved various steps to analyze the data
 ####  Data Collection and Cleaning:
-   - Gather datasets of a restaurant hub like swiggy, Uber Eats, and Zomato, including restaurant details, location, user rating, availability of online orders, the most liked dishes, and other relevant fields.
+   - Gather dataset of a restaurant hub like swiggy, Uber Eats, and Zomato, including restaurant details, location, user rating, availability of online orders, the most liked dishes, and other relevant fields.
    - Cleaned the data by removing duplicates, and required fields and ensuring data consistency - Reducing the size by 56%.
 
 ####  Exploratory Data Analysis (EDA):
